@@ -1,6 +1,6 @@
 # Welcome to my profile 🐝
 
-I'm a Linguistics student at the Federal University of São Carlos specializing in Formal Semantics. I'm interested in the semantics of natural languages (mainly brazilian portuguese and japanese) and formal languages.
+I'm a Linguistics student at the Federal University of São Carlos specializing in Formal Semantics. I'm interested mainly in the semantics of natural languages and formal languages.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lisanju&theme=tokyonight)
 
