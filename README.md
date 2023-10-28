@@ -1,7 +1,4 @@
 # Welcome to my profile 🐝
-
-[Linguistics student specializing in Formal Semantics and Natural Language Processing]
-
 I'm interested mainly in the formal semantics of (anti-)comitativity and expressive meanings, such as comitatives, exclusives, honorifics and cussing words. Regarding NLP, I'm studying the implementation of semantic parsing in Prolog and lexical database with WordNet.
 
 ### I’m currently learning:
