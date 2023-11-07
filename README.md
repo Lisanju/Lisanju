@@ -5,7 +5,7 @@ lisanju.contato@gmail.com
 
 EN - If you want to contact me, send me an email =u=
 
-PB - Entre em contato comigo pelo email abaixo OwO
+PB - Entre em contato comigo pelo email acima OwO
 
 JP - ご遠慮なくメールでおしゃってください ・ω・
 
