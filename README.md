@@ -10,7 +10,10 @@ PB - Entre em contato comigo pelo email acima OwO
 JP - ご遠慮なくメールでおしゃってください ・ω・
 
 ### Formal Semantics
-I'm interested mainly in the formal semantics of (anti-)comitativity and expressive meanings, such as comitatives and exclusives modifiers, honorifics and cussing words. Regarding NLP, I'm studying the lexicographical building of mono-bi-tri-lingual dictionaries and concept-based lexical glossaries / wordnet databases.
+After all, what is formal semantics?
+
+Formal semantics is a field of theoretical linguistics which provides mathematical formalizations about the meaning of natural language expressions.
+I like studying topics related to (anti-)comitativity (such as comitatives and exclusives modifiers, like 'alone' and 'só') and expressive meanings (such as honorifics and slurs, like 'いらっしゃる' and 'pra caralho').
 
 ### Current projects:
 - Geoki Jiten, a bilingual brazilian portuguese and okinawan dictionary;
