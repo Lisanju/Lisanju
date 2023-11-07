@@ -3,7 +3,7 @@ I'm a BSc Linguistics student at UFSCar - Brazil. I'm interested mainly in the f
 
 lisanju.contato@gmail.com
 
-EN - If you want to contacte me, send me an email =u=
+EN - If you want to contact me, send me an email =u=
 
 PB - Entre em contato comigo pelo email abaixo OwO
 
