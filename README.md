@@ -9,7 +9,7 @@ PB - Entre em contato comigo pelo email acima OwO
 
 JP - ご遠慮なくメールでおしゃってください ・ω・
 
-### Formal Semantics
+## Formal Semantics
 After all, what is formal semantics?
 
 Formal semantics is a field of theoretical linguistics which provides mathematical formalizations about the meaning of natural language expressions.
@@ -17,7 +17,7 @@ I like studying topics related to (anti-)comitativity (such as comitatives and e
 
 The theory of formal semantics can be implemented computationally, which means that the theory can also be expressed as running code rather than just mathematical formalizations.
 
-### Natural Language Processing
+## Natural Language Processing
 Regarding NLP, I'm studying the (semi-)automatic production of linguistics resources like mono-bi-tri-lingual dictionaries and concept-based glossaries / WordNet databases.
 
 Being interested in symbolic paradigms of language processing, I practice implementing natural language generation rules in Prolog.
