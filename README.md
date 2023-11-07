@@ -20,7 +20,7 @@ The theory of formal semantics can be implemented computationally, which means t
 ## Natural Language Processing
 Regarding NLP, I'm studying the (semi-)automatic production of linguistics resources like mono-bi-tri-lingual dictionaries and concept-based glossaries / WordNet databases.
 
-Being interested in symbolic paradigms of language processing, I practice implementing natural language generation rules in Prolog.
+Being interested in symbolic paradigms of language processing, I often practice implementing natural language generation rules in Prolog.
 
 ### Current projects:
 - Geoki Jiten, a bilingual brazilian portuguese and okinawan dictionary;
