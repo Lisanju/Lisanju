@@ -1,1 +1,32 @@
+<table>
+  <tr>
+    <td><a href="readmepb.md">Português Brasileiro</a></td>
+    <td><a href="README.md">English</a></td>
+  </tr>
+</table>
 
+
+# ようこそ～ 🐝
+専門は言語学で形式意味論と自然言語処理へ興味を持ってます。プロジェクトとは、理論言語学や理論学や言語モデルの自然言語処理や自然言語処理データなどに関わります。
+
+lisanju.contato@gmail.com
+
+連絡ならメールでOKです ・ω・
+
+## 形式意味論
+形式意味論というのはいったい何ですか？
+
+形式意味論は理論言語学の分野で自然言語の言葉の意味にロジカル的な説明を与えます。研究好きなトピックはアンチコミタティビティ（例：'alone'と'sozinho'の修飾子）やエクスプレッシブ意味（例：'いらっしゃる'と'pra caralho'の敬語・悪口).
+
+形式意味論の説明は数学的形式化だけで表現するのではなく、コンピューターコードでも表現できます。
+
+## 自然言語処理
+自然言語処理について勉強してるのは、辞典などの言語リソースや概念ベースの用語集・WordNetデータベースです。
+
+
+Regarding NLP, I'm studying the (semi-)automatic production of linguistics resources like mono-bi-tri-lingual dictionaries and concept-based glossaries / WordNet databases.
+
+自然言語処理記号パラダイムに興味があるので、Prologで生成ルールを実装する練習をよくしています。
+
+### 現在のプロジェクト:
+- GEOKI辞典「ブラジル・ポルトガル語とうちなーぐちのバイリンガル辞書」
