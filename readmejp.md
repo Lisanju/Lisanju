@@ -23,9 +23,6 @@ lisanju.contato@gmail.com
 ## 自然言語処理
 自然言語処理について勉強してるのは、辞典などの言語リソースや概念ベースの用語集・WordNetデータベースです。
 
-
-Regarding NLP, I'm studying the (semi-)automatic production of linguistics resources like mono-bi-tri-lingual dictionaries and concept-based glossaries / WordNet databases.
-
 自然言語処理記号パラダイムに興味があるので、Prologで生成ルールを実装する練習をよくしています。
 
 ### 現在のプロジェクト:
