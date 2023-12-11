@@ -23,8 +23,6 @@ A teoria desenvolvida em semântica formal pode ser implementada computacionalme
 ## Processamento de Linguagem Natural
 Em NLP, ando estudando a construção (semi-)automática de recursos linguísticos como dicionários mono-bi-tri-língues e glossários baseados em conceitos / databases WordNet.
 
-Tenho interesse em paradigmas simbólicos de processamento de linguagem, então pratico a implementação de regras de geração de línguas naturais no Prolog.
-
 ### Projetos atuais:
 - Geoki Jiten, um dicionário bilíngue do okinawano e português brasileiro.
 
