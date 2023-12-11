@@ -1,13 +1,17 @@
+<table>
+  <tr>
+    <td><a href="readmepb.md">Português Brasileiro</a></td>
+    <td><a href="readmejp.md">日本語</a></td>
+  </tr>
+</table>
+
+
 # Welcome to my profile 🐝
 I'm a BSc Linguistics student interested mainly in the formal semantics of natural languages and natural language processing (NLP). My projects involve theoretical linguistics, formal logic, computational implementation of language models and NLP-oriented data.
 
 lisanju.contato@gmail.com
 
-EN - If you want to contact me, send me an email =u=
-
-PB - Entre em contato comigo pelo email acima OwO
-
-JP - ご遠慮なくメールでおしゃってください ・ω・
+If you want to contact me, send me an email =u=
 
 ## Formal Semantics
 After all, what is formal semantics?
