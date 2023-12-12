@@ -2,6 +2,7 @@
   <tr>
     <td><a href="readmepb.md">Português Brasileiro</a></td>
     <td><a href="readmejp.md">日本語</a></td>
+    <td><a href="readmerm.md">Romani</a></td>
   </tr>
 </table>
 
