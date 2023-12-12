@@ -15,7 +15,7 @@ Semantica formala si jekh kimpo la teoretikala linguistica koji dajel formalizar
 Semantica formala le teorie si te avel ekspresardo sar la computadora coda, so znaci ke na trubul te avel ekspresardo sar la formalizare matematice.
 
 ## Chib Natural Procesi
-Regarding NLP, I'm studying the (semi-)automatic production of linguistics resources like mono-bi-tri-lingual dictionaries and concept-based glossaries / WordNet databases.
+Kasa le NLP, ledav le produita (polu-)automatice le dato linguistico sar mono-bi-tri-lingual dictionarija haj glosa bazarde de koncept / WordNet databases.
 
 Current projects:
 Geoki Jiten, a bilingual brazilian portuguese and okinawan dictionary.
