@@ -1,3 +1,11 @@
+<table>
+  <tr>
+    <td><a href="README.md">English</a></td>
+    <td><a href="readmepb.md">Português Brasileiro</a></td>
+    <td><a href="readmejp.md">日本語</a></td>
+  </tr>
+</table>
+
 # Bienve ande murho profeto 🐝
 Te aves baxtalo! Me sim Elisa Anju Lardapide, me sim jekh braziljana romanija haj studenta la linguistica. =)
 
@@ -17,5 +25,6 @@ Semantica formala le teorie si te avel ekspresardo sar la computadora coda, so z
 ## Chib Natural Procesi
 Kasa le NLP, ledav le produita (polu-)automatice le dato linguistico sar mono-bi-tri-lingual dictionarija haj glosa bazarde de koncept / WordNet databases.
 
-Current projects:
-Geoki Jiten, a bilingual brazilian portuguese and okinawan dictionary.
+## Projekti atunci:
+- Geoki Jiten, jekh bilingual portugues braziliane haj okinawane dictionarija;
+- Romani DT, jekh recursivo dato le rromanes chib ekspresione.
