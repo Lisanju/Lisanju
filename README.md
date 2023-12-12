@@ -8,7 +8,7 @@
 
 
 # Welcome to my profile 🐝
-Hello! I'm Elisa Anju Lardapide, a brazilian romani and BSc Linguistics student. =)
+Hello! I'm Elisa Anju Lardapide, a brazilian gypsy and BSc Linguistics student. =)
 
 I'm interested mainly in the formal semantics of natural languages and natural language processing (NLP). My projects involve theoretical linguistics, formal logic and NLP-oriented data.
 
@@ -29,4 +29,4 @@ Regarding NLP, I'm studying the (semi-)automatic production of linguistics resou
 
 ### Current projects:
 - Geoki Jiten, a bilingual brazilian portuguese and okinawan dictionary;
-- Romani DT, a data resource of romani language expressions.
+- Romani DT, a data resource of gypsy language expressions.
