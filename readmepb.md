@@ -27,5 +27,5 @@ A teoria desenvolvida em semântica formal pode ser implementada computacionalme
 Em NLP, ando estudando a construção (semi-)automática de recursos linguísticos como dicionários mono-bi-tri-língues e glossários baseados em conceitos / databases WordNet.
 
 ### Projetos atuais:
-- Geoki Jiten, um dicionário bilíngue do okinawano e português brasileiro.
-
+- Geoki Jiten, um dicionário bilíngue do okinawano e português brasileiro;
+- Romani DT, um recurso de dados para expressões da língua cigana.
