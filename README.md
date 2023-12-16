@@ -29,4 +29,4 @@ Regarding NLP, I'm studying the (semi-)automatic production of linguistics resou
 
 ### Current projects:
 - Geoki Jiten, a bilingual brazilian portuguese and okinawan dictionary;
-- Romani DT, a data resource of rromanes language expressions.
+- Romani DT, a data resource of rromanés language expressions.
