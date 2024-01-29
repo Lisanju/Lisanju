@@ -16,6 +16,8 @@ lisanju.contato@gmail.com
 
 Se quiser entrar em contato comigo, me manda um e-mail! OwO
 
+Tecnologias que mais uso: Python, R, Prolog, JavaScript, HTML, CSS.
+
 ## Semântica Formal
 Afinal, o que é semântica formal?
 
