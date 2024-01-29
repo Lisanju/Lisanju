@@ -16,6 +16,8 @@ lisanju.contato@gmail.com
 
 If you want to contact me, send me an email =u=
 
+Most used technologies: Python, R, Prolog, JavaScript, HTML, CSS.
+
 ## Formal Semantics
 After all, what is formal semantics?
 
