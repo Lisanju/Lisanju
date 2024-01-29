@@ -16,6 +16,8 @@ lisanju.contato@gmail.com
 
 連絡ならメールでOKです ・ω・
 
+知ってるテクノロジーとは「Python, R, Prolog, JavaScript, HTML, CSS」。
+
 ## 形式意味論
 形式意味論というのはいったい何ですか？
 
