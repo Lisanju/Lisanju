@@ -7,7 +7,7 @@
 
 
 # Welcome to my profile 🐝
-Hello! I'm Elisa Anju Lardapide, a brazilian gypsy and BSc Linguistics student. =)
+Hello! I'm Elisa Anju Lardapide, a brazilian-gypsy and BSc Linguistics student. =)
 
 I'm interested mainly in the formal semantics of natural languages and natural language processing (NLP). My projects involve theoretical linguistics, formal logic and NLP-oriented data.
 
