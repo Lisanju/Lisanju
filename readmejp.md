@@ -15,8 +15,6 @@ lisanju.contato@gmail.com
 
 連絡ならメールでOKです ・ω・
 
-知ってるテクノロジーとは「Python, R, Prolog, JavaScript, HTML, CSS」。
-
 ## 形式意味論
 形式意味論というのはいったい何ですか？
 
@@ -26,7 +24,3 @@ lisanju.contato@gmail.com
 
 ## 自然言語処理
 自然言語処理について勉強してるのは、辞典などの言語リソースや概念ベースの用語集・WordNetデータベースです。
-
-### 現在のプロジェクト:
-- GEOKI辞典「ブラジル・ポルトガル語とうちなーぐちのバイリンガル辞書」;
-- ROMANI DT「ジプシー語の言葉のデータリソース」.
