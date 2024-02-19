@@ -15,8 +15,6 @@ lisanju.contato@gmail.com
 
 Se quiser entrar em contato comigo, me manda um e-mail! OwO
 
-Tecnologias que mais uso: Python, R, Prolog, JavaScript, HTML, CSS.
-
 ## Semântica Formal
 Afinal, o que é semântica formal?
 
@@ -26,7 +24,3 @@ A teoria desenvolvida em semântica formal pode ser implementada computacionalme
 
 ## Processamento de Linguagem Natural
 Em NLP, ando estudando a construção (semi-)automática de recursos linguísticos como dicionários mono-bi-tri-língues e glossários baseados em conceitos / databases WordNet.
-
-### Projetos atuais:
-- Geoki Jiten, um dicionário bilíngue do okinawano e português brasileiro;
-- Romani DT, um recurso de dados para expressões da língua rromanés.
