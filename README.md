@@ -9,7 +9,7 @@
 # Welcome to my profile 🐝
 Hello! I'm Elisa Anju Lardapide, a brazilian-gypsy and BSc Linguistics student. =)
 
-I'm interested mainly in the formal semantics of natural languages and natural language processing (NLP). My projects concerns theoretical linguistics, formal logic and NLP-oriented data.
+I'm interested mainly in the formal semantics of natural languages. My projects concerns theoretical linguistics, formal logic and NLP-oriented data.
 
 lisanju.contato@gmail.com
 
@@ -20,8 +20,3 @@ After all, what is formal semantics?
 
 Formal semantics is a field of theoretical linguistics which provides mathematical formalizations for the meaning of natural language expressions.
 I like studying topics related to (anti-)comitativity (such as comitative modifiers, like 'alone' and 'sozinho') and expressive meanings (such as honorifics and slurs, like 'いらっしゃる' and 'pra caralho').
-
-The theory of formal semantics can be implemented computationally, which means that the theory can also be expressed as running code rather than just mathematical formalizations.
-
-## Natural Language Processing
-Regarding NLP, I'm studying the (semi-)automatic production of linguistics resources like mono-bi-tri-lingual dictionaries and concept-based glossaries / WordNet databases.
