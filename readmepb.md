@@ -9,7 +9,7 @@
 # Seja bem-vindo(a/e)! 🐝
 Oie! Me chamo Elisa Anju Lardapide, sou uma cigano-brasileira e estudante de Linguística. =)
 
-Tenho interesse principalmente em semântica formal de línguas naturais e processamento de linguagem natural (NLP). Meus projetos envolvem linguística teórica, lógica formal e dados para NLP. 
+Tenho interesse principalmente em semântica formal de línguas naturais. Meus projetos envolvem linguística teórica, lógica formal e dados para NLP. 
 
 lisanju.contato@gmail.com
 
@@ -22,5 +22,3 @@ Ela é um campo da linguística teórica cuja pesquisa trata de desenvolver form
 
 A teoria desenvolvida em semântica formal pode ser implementada computacionalmente, o que significa que a teoria pode ser expressa como código rodando ao invés de só formalizações matemáticas.
 
-## Processamento de Linguagem Natural
-Em NLP, ando estudando a construção (semi-)automática de recursos linguísticos como dicionários mono-bi-tri-língues e glossários baseados em conceitos / databases WordNet.
