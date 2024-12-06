@@ -19,4 +19,4 @@ If you want to contact me, send me an email =u=
 After all, what is formal semantics?
 
 Formal semantics is a field of theoretical linguistics which provides mathematical formalizations for the meaning of natural language expressions.
-I like studying topics related to (anti-)comitativity (such as comitative modifiers, like 'alone' and 'sozinho') and expressive meanings (such as honorifics and slurs, like 'いらっしゃる' and 'pra caralho').
+I like studying topics related to (anti-)comitativity (such as comitative modifiers, like 'sem' and 'sozinho') and expressive meanings (such as honorifics and slurs, like 'いらっしゃる' and 'pra caralho').
