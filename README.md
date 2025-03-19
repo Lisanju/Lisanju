@@ -7,7 +7,7 @@
 
 
 # Welcome to my profile 🐝
-Hello! I'm Elisa Anju, a brazilian-gypsy linguist! =)
+Hello! I'm Elisa Anju, a brazilian-gypsy and linguist! =)
 
 I'm interested mainly in the formal semantics of natural languages. My projects concerns theoretical linguistics, formal logic and NLP-oriented data.
 
