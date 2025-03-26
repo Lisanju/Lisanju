@@ -7,7 +7,7 @@
 
 
 # Seja bem-vindo(a/e)! 🐝
-Oie! Eu me chamo Elisa Anju Lardapide e sou uma semanticista cigano-brasileiro.
+Oie! Eu me chamo Elisa Anju Lardapide e sou uma semanticista cigano-brasileira.
 
 Tenho interesse principalmente na semântica formal de línguas naturais. Meus projetos envolvem linguística teórica, lógica formal e dados para NLP. 
 
